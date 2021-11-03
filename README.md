@@ -21,22 +21,22 @@ Please [browse my other github repos.](https://github.com/edpackard?tab=reposito
 ## Technologies
 
 ### Languages
-Ruby
-JavaScript (including Node.js)
+* Ruby
+* JavaScript (including Node.js). 
 
 ### Databases
-SQL (PostgreSQL)
-MongoDB
+* SQL (PostgreSQL) 
+* MongoDB 
 
 ### Web
-HTML/CSS
-React
+* HTML/CSS 
+* React 
 
 ### Testing
-RSpec (Ruby)
-Capybara (Ruby)
-Jasmine (JavaScript)
-Jest (JavaScript)
+* RSpec (Ruby) 
+* Capybara (Ruby) 
+* Jasmine (JavaScript) 
+* Jest (JavaScript) 
 
 ## Coding strengths
 
