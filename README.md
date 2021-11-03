@@ -65,10 +65,10 @@ Feedback from a recent review: 'You used the backtrace messages as effective fee
 
 #### Makers Academy, June 2021 - October 2021
 
-- Intensive software development bootcamp focusing on TDD/BDD, OOP, and Agile processes.
-- Multiple learning and working styles: self-led learning, pair programming challenges, group engineering projects.
-- Attended regular process workshops.
-- Mentored two students from the next cohort.
+- Intensive software development bootcamp focusing on TDD/BDD, OOP, and Agile processes
+- Multiple learning and working styles: self-led learning, pair programming challenges, group engineering projects
+- Attended regular process workshops
+- Mentored two students from the next cohort
 
 #### London School of Economics and Political Science
 
