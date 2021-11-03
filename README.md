@@ -2,11 +2,11 @@
 
 I am a highly motivated individual who always brings an infectious enthiusiasm to the teams and projects I am involved in. My background in teaching and researching history has equipped me with a formidable work ethic, outstanding analytical skills, and a strong sense of empathy. 
 
-After a rewarding decade working as an academic, I began looking for new challenges and decided to apply my skills in a different direction: this is why I undertook and completed the Makers software development bootcamp.
+After a rewarding decade working as an academic, I found myself searching for a new challenge: this is why I undertook and completed the Makers software development bootcamp.
 
 Throughout my life I have always been fascinated by computers and the rapid development of technology, and I want to spend the next part of my career building software that will hopefully help to make the world a better place.
 
-I blog about my experiences learning to code [here](https://edpackard.medium.com/). I can be found on [Codewars](https://www.codewars.com/users/edpackard) here.
+I blog about my experiences learning to code [here](https://edpackard.medium.com/). I can also be found on [Codewars](https://www.codewars.com/users/edpackard).
 
 ## Some of my projects
 
