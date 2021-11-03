@@ -22,7 +22,7 @@ Please [browse my other github repos.](https://github.com/edpackard?tab=reposito
 
 ### Languages
 * Ruby
-* JavaScript (including Node.js). 
+* JavaScript (including Node.js) 
 
 ### Databases
 * SQL (PostgreSQL) 
