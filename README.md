@@ -2,7 +2,7 @@
 
 I am a highly motivated individual who always brings an infectious enthiusiasm to the teams and projects I am involved in. My background in teaching and researching history has equipped me with a formidable work ethic, outstanding analytical skills, and a strong sense of empathy. 
 
-After a rewarding decade working as an academic, I found myself searching for a new challenge: this is why I undertook and completed the Makers software development bootcamp.
+After a rewarding decade working as an academic, I found myself searching for a new challenge: this is why I undertook and completed the [Makers Academy](https://makers.tech/) software development bootcamp.
 
 Throughout my life I have always been fascinated by computers and the rapid development of technology, and I want to spend the next part of my career building software that will hopefully help to make the world a better place.
 
@@ -18,13 +18,39 @@ I blog about my experiences learning to code [here](https://edpackard.medium.com
 
 Please [browse my other github repos.](https://github.com/edpackard?tab=repositories)
 
-## Skills
+## Technologies
+
+### Languages
+Ruby
+JavaScript (including Node.js)
+
+### Databases
+SQL (PostgreSQL)
+MongoDB
+
+### Web
+HTML/CSS
+React
+
+### Testing
+RSpec (Ruby)
+Capybara (Ruby)
+Jasmine (JavaScript)
+Jest (JavaScript)
+
+## Coding strengths
 
 #### Test-Driven Development
+Learning TDD was a real highlight of the Makers Academy bootcamp, and I really enjoy seeing code 'emerge' out of my tests.
+Feedback from a recent review: 'Implementing the red-green-refactor cycle, you were able to achieve incremental development cycles. Each new test only introduced cases that would likely fail. Even when your tests passed right off, you kept the tests intact, resulting in a comprehensive test suite.'
 
 #### Debugging
+I have a keen eye for spotting bugs, and use multiple tools to tighten the loop and isolate problems in my code.
+Feedback from a recent review: 'You used the backtrace messages as effective feedback on the issues you were meant to address for your tests to pass. Consequently, you managed to maintain a steady pace throughout the review. You also used print statements to expose the internal state of your programme, allowing you to make changes while developing the iteration for your programme. Other than that, you did not run into too many show-stopping bugs, which was incredible!'
 
 #### Pair Programming
+
+## Skills
 
 #### Excellent Communicator
 
@@ -35,6 +61,11 @@ Please [browse my other github repos.](https://github.com/edpackard?tab=reposito
 ## Education
 
 #### Makers Academy, June 2021 - October 2021
+
+- Intensive software development bootcamp focusing on TDD/BDD, OOP, and Agile processes.
+- Multiple learning and working styles: self-led learning, pair programming challenges, group engineering projects.
+- Attended regular process workshops.
+- Mentored two students from the next cohort.
 
 #### London School of Economics and Political Science
 
