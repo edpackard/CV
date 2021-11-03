@@ -38,6 +38,9 @@ Please [browse my other github repos.](https://github.com/edpackard?tab=reposito
 * Jasmine (JavaScript) 
 * Jest (JavaScript) 
 
+### Version control
+* Git/Github
+
 ## Coding strengths
 
 #### Test-Driven Development
