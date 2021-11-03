@@ -14,7 +14,7 @@ I blog about my experiences learning to code [here](https://edpackard.medium.com
 
 [Bank Tech Test](https://github.com/edpackard/bank-tech-test-ruby): a command line app built with Ruby, demonstrating my TDD/OOP practice.
 
-[Note-orious](https://github.com/gjstirling/Notebook-Single-Page-App): a JavaScript note-taking app built as a group project, with a handcrafted testing framework.
+[Note-orious](https://github.com/gjstirling/Notebook-Single-Page-App): a JavaScript note-taking app built as a group project, with a bespoke testing framework.
 
 Please [browse my other github repos.](https://github.com/edpackard?tab=repositories)
 
