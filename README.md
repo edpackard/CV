@@ -10,13 +10,13 @@ I blog about my experiences learning to code [here](https://edpackard.medium.com
 
 ## Some of my projects
 
-[Chitter](https://github.com/edpackard/chitter): a twitter clone built with Ruby/Sinatra. Deployed here.
+[Chitter](https://github.com/edpackard/chitter): a twitter clone built with Ruby/Sinatra. Deployed [here](https://chitter-2021.herokuapp.com/peeps).
 
 [Bank Tech Test](https://github.com/edpackard/bank-tech-test-ruby): a command line app built with Ruby, demonstrating my TDD/OOP practice.
 
 [Note-orious](https://github.com/gjstirling/Notebook-Single-Page-App): a JavaScript note-taking app built as a group project, with a bespoke testing framework.
 
-Please [browse my other github repos.](https://github.com/edpackard?tab=repositories)
+For other projects, please [browse my github repos.](https://github.com/edpackard?tab=repositories)
 
 ## Technologies
 
@@ -38,14 +38,16 @@ Git/Github
 ## Coding strengths
 
 #### Test-Driven Development
-Learning TDD was a real highlight of the Makers Academy bootcamp, and I really enjoy seeing code 'emerge' out of my tests.
-Feedback from a recent review: 'Implementing the red-green-refactor cycle, you were able to achieve incremental development cycles. Each new test only introduced cases that would likely fail. Even when your tests passed right off, you kept the tests intact, resulting in a comprehensive test suite.'
+* Learning TDD was a real highlight of the Makers Academy bootcamp, and I really enjoy seeing code 'emerge' out of my tests.
+* Feedback from a recent review: 'Implementing the red-green-refactor cycle, you were able to achieve incremental development cycles. Each new test only introduced cases that would likely fail. Even when your tests passed right off, you kept the tests intact, resulting in a comprehensive test suite.'
 
 #### Debugging
-I have a keen eye for spotting bugs, and use multiple tools to tighten the loop and isolate problems in my code.
-Feedback from a recent review: 'You used the backtrace messages as effective feedback on the issues you were meant to address for your tests to pass. Consequently, you managed to maintain a steady pace throughout the review. You also used print statements to expose the internal state of your programme, allowing you to make changes while developing the iteration for your programme. Other than that, you did not run into too many show-stopping bugs, which was incredible!'
+* I have a keen eye for spotting bugs, and use multiple tools to tighten the loop and isolate problems in my code.
+* Feedback from a recent review: 'You used the backtrace messages as effective feedback on the issues you were meant to address for your tests to pass. Consequently, you managed to maintain a steady pace throughout the review. You also used print statements to expose the internal state of your programme, allowing you to make changes while developing the iteration for your programme. Other than that, you did not run into too many show-stopping bugs, which was incredible!'
 
 #### Pair Programming
+* My best coding experiences have been collaborative, especially through pair programming.
+* Peoples I have paired with have provided positive feedback, and often mention that I am good at providing clear explanations.
 
 ## Skills
 
