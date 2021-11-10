@@ -76,7 +76,7 @@ For other projects, please [browse my github repos.](https://github.com/edpackar
 _Lecturer in History_
 
 - Delivery of high quality outcomes: I designed, led, delivered, and assessed undergraduate degree modules, mainly related to modern European and international history, which consistently received outstanding feedback from students. I also developed expertise in Quality Assurance, and am currently an external examiner at another UK Higher Education Institution
-- Dedication to students learning and wellbeing (I was nominated and shortlisted for 'Most Engaging Lecturer' in 2014 Students' Union Teaching Awards, nominated for 'Most Inspiring Lecturer' in 2018 Students' Union Staff and Student Awards)
+- Dedication to students' learning and wellbeing (I was nominated and shortlisted for 'Most Engaging Lecturer' in 2014 Students' Union Teaching Awards, nominated for 'Most Inspiring Lecturer' in 2018 Students' Union Staff and Student Awards)
 - Commitment to widening participation and inclusivity: I led the History team's schools liaison programme and inspired applicants from non-traditional backgrounds to achieve success in Higher Education
 - Innovated in the use of online learning environments and resources, including leading team in the implementation of online assessment best practices and successful adaptation to online-only teaching during the Covid-19 pandemic
 - Contributed to the creation and implementation of institution-wide academic policies
