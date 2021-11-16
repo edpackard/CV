@@ -4,7 +4,7 @@ I am a highly-motivated individual who always brings an infectious enthiusiasm t
 
 After a rewarding decade working as an academic, I found myself searching for a new challenge: this is why I undertook and completed the [Makers Academy](https://makers.tech/) software development bootcamp. Makers encouraged me to reflect deeply on how I learn: during this journey, I was hugely inspired by the coaches and my cohort.
 
-Throughout my life I have always been fascinated by computers and the rapid development of technology: as a child, I remember spending hours typing out (and adapting) code from computer magazines and getting books out of the local library to find out more about programming. I would have loved something like Stack Overflow back then! I want to spend the next part of my career building software that will hopefully help to make the world a better place.
+Throughout my life I have always been fascinated by computers and the rapid development of technology: as a child, I remember spending hours typing out (and adapting) code from computer magazines and getting books out of the local library to find out more about programming. I would have loved something like Stack Overflow back then! I now want to spend the next part of my career building software that will hopefully help to make the world a better place.
 
 I blog about my experiences learning to code [here](https://edpackard.medium.com/). I can also be found on [Codewars](https://www.codewars.com/users/edpackard).
 
@@ -22,7 +22,7 @@ For other projects, please [browse my github repos.](https://github.com/edpackar
 
 #### Test-Driven Development
 
-- Learning TDD was a real highlight of the Makers Academy bootcamp, and I really enjoy seeing code 'emerge' out of my tests. I am committed to refining my TDD process and attended every process workshop during the Makers bootcamp, and have also undertaken several external reviews of my process.
+- Learning TDD was one of the highlights of the Makers Academy bootcamp, and I really enjoy seeing code 'emerge' out of my tests. I am committed to refining my TDD process and attended every process workshop during the Makers bootcamp, and have also undertaken several external reviews of my process.
 - Feedback from a recent review: 'Your tests were based on the expected inputs and outputs of the system. This is great as it promotes flexibility in your code while keeping it focused on the behaviour of the system. You are working in an incremental manner and with each new test, you are introducing a small change to the algorithm which allows you to focus on less complexity at any given time.'
 
 #### Debugging
@@ -39,17 +39,17 @@ For other projects, please [browse my github repos.](https://github.com/edpackar
 
 #### Makers Academy, June 2021 - October 2021
 
-- Intensive software development bootcamp focusing on TDD/BDD, OOP, and Agile processes
-- Multiple learning and working styles: self-led learning, pair programming challenges, and group engineering projects
-- Used Ruby and JavaScript (including Node.js) but as a Makers graduate I am language agnostic and equipped with the skills to learn new languages fast
-- Learned relational (PostgreSQL) and non-relational (MongoDB) databases
-- Tested my code with multiple frameworks including RSpec, Capybara, Jasmine, Jest and Cypress
-- Built full-stack applications, including the MERN stack
-- Developed familiarity with Git/Github version control, and I am comfortable with the command line
-- Studied Emotional Intelligence curriculum to enhance my communication, collaboration and reflective skills
-- Active participant in group planning and rituals (standups, retros etc) using tools such as Trello and EasyRetro
-- Mentored two students from the next cohort
-- Organised post-bootcamp 'field trip' to the Centre for Computing History in Cambridge
+Makers is an intensive software development bootcamp focusing on TDD/BDD, OOP, and Agile processes. As a Makers graduate I am able to:
+- effectively use multiple learning and working styles: self-led learning, pair programming challenges, and group engineering projects.
+- learn new languages and frameworks fast - I am language agnostic.
+- use relational and non-relational databases.
+- test-drive my code with multiple frameworks including RSpec, Capybara, Jasmine, Jest and Cypress.
+- debug my code with appropriate tools and approaches.
+- build full-stack applications, including the MERN stack.
+- comfortably use Git/Github version control, and the command line.
+- practice Emotional Intelligence (EQ) to enhance my communication, collaboration, mentoring and reflective skills
+- pair program effectively, both as driver and navigator
+- lead group planning and rituals (standups, retros etc) using tools such as Trello and EasyRetro
 
 #### London School of Economics and Political Science (2004-2009)
 
@@ -75,30 +75,27 @@ For other projects, please [browse my github repos.](https://github.com/edpackar
 **University of Suffolk** (September 2010 to June 2021)  
 _Lecturer in History_
 
-- Delivery of high quality outcomes: I designed, led, delivered, and assessed undergraduate degree modules, mainly related to modern European and international history, which consistently received outstanding feedback from students. I also developed expertise in Quality Assurance, and am currently an external examiner at another UK Higher Education Institution
-- Dedication to students' learning and wellbeing (I was nominated and shortlisted for 'Most Engaging Lecturer' in 2014 Students' Union Teaching Awards, nominated for 'Most Inspiring Lecturer' in 2018 Students' Union Staff and Student Awards)
-- Commitment to widening participation and inclusivity: I led the History team's schools liaison programme and inspired applicants from non-traditional backgrounds to achieve success in Higher Education
-- Innovated in the use of online learning environments and resources, including leading team in the implementation of online assessment best practices and successful adaptation to online-only teaching during the Covid-19 pandemic
-- Contributed to the creation and implementation of institution-wide academic policies
-- Commitment to public engagement: organised numerous well-attended public-facing events to bring academic history to a public audience
+- I designed, led, delivered, and assessed undergraduate degree modules, mainly related to modern European and international history, using my communication, time management, feedback and interpersonal skills. My modules consistently received outstanding feedback from students (including nominations for awards) and I contributed to the History programme receiving national recognition for its student satisfaction. As a result of this work, I developed expertise in Quality Assurance, and am currently an external examiner at another UK Higher Education Institution
+- As widening participation leader for History, I demonstrated my commitment to inclusivity and improved the recruitment of students from non-typical backgrounds through a combination of networking and empathy alongside strategic and analytical thinking.
+- I drove departmental and institutional change related to student assessment procedures, adopting a strategic approach and using my team-working and peacemaking skills. This included innovation in the use of online learning environments and resources, such as leading a team in the implementation of online assessment best practices.
+- To engage wider audiences in the latest academic ideas, I used storytelling approaches in public engagement activities ranging from successful events to media appearances (including the BBC).
 
 **David Game College, University Foundation Programme** (January to June 2010)  
 _History Teacher_
 
-- Delivery of high quality outcomes: I built, led, delivered and assessed a well-received history curriculum
-- Commitment to widening participation and inclusivity: I taught and mentored international students to gain relevant qualifications to enter UK Higher Education
+- I used coaching, empathy and communication to enable students from diverse international backgrounds to achieve qualifications to enter UK universities.
+- I designed, delivered and assessed a well-received history curriculum at short notice, demonstrating time management, strategic and communication skills.
 
 **Freelance** (February to March 2010)  
 _Historical Researcher_
 
-- Highly self-organised: undertook research in multiple archives to a strict deadline
-- Outstanding written communication: presented research in accessible format for client
-- Delivery of high quality outcomes: my research formed the basis of displays, events and educational resources in a major London park
+- Demonstrated time management and strategic skills by undertaking professional historical research across multiple archives to a tight deadline for a client.
+- Produced a high-quality written report which formed the basis of displays, events and educational resources in a major London park.
 
 **London School of Economics and Political Science** (2005-2008, 2010-2011)  
 _Graduate Teaching Assistant_
 
-- Delivered seminar teaching and assessed student work for various undergraduate history modules
+- I used time management and communication skills, combined with pedagogical study, to deliver seminar teaching, indvidual tutorials, and assessment of student work, alongside my own PhD studies.
 
 ## Hobbies
 
