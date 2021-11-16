@@ -33,7 +33,7 @@ For other projects, please [browse my github repos.](https://github.com/edpackar
 #### Pair Programming
 
 - I am a strong team player, and my best coding experiences have been collaborative, especially through pair programming.
-- Pair programming provides me with opportunities to demonstrate and develop my excellent communication skills. People I have paired with have provided positive feedback, and often compliment the clarity of my explanations.
+- Pair programming provides me with opportunities to demonstrate and develop my excellent communication skills. People I have paired with have provided positive feedback (such as describing me as a 'thoughtful navigator'), and have often complimented the clarity of my explanations.
 
 ## Education
 
