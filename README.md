@@ -22,7 +22,7 @@ For other projects, please [browse my github repos.](https://github.com/edpackar
 
 #### Test-Driven Development
 
-- Learning TDD was one of the highlights of the Makers Academy bootcamp, and I really enjoy seeing code 'emerge' out of my tests. I am committed to refining my TDD process and attended every process workshop during the Makers bootcamp, and have also undertaken several external reviews of my process.
+- Learning TDD was one of the highlights of the Makers Academy bootcamp, and I really enjoy seeing code 'emerge' out of my tests. I am committed to refining my TDD process and attended every process workshop during the Makers bootcamp. I have also undertaken several external reviews of my process.
 - Feedback from a recent review: 'Your tests were based on the expected inputs and outputs of the system. This is great as it promotes flexibility in your code while keeping it focused on the behaviour of the system. You are working in an incremental manner and with each new test, you are introducing a small change to the algorithm which allows you to focus on less complexity at any given time.'
 
 #### Debugging
