@@ -1,6 +1,6 @@
 ## Edward Packard
 
-I am a highly motivated individual who always brings an infectious enthiusiasm to the teams and projects I am involved in. My background in teaching and researching history has equipped me with a formidable work ethic, outstanding analytical and communication skills, and a strong sense of empathy.
+I am a highly-motivated individual who always brings an infectious enthiusiasm to the teams and projects I am involved in. My background in teaching and researching history has equipped me with a formidable work ethic, outstanding analytical and communication skills, and a strong sense of empathy.
 
 After a rewarding decade working as an academic, I found myself searching for a new challenge: this is why I undertook and completed the [Makers Academy](https://makers.tech/) software development bootcamp. Makers encouraged me to reflect deeply on how I learn: during this journey, I was hugely inspired by the coaches and my cohort.
 
@@ -14,7 +14,7 @@ I blog about my experiences learning to code [here](https://edpackard.medium.com
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------- |
 | [Chitter](https://github.com/edpackard/chitter)                       | A test-driven twitter clone. Deployed [here](https://chitter-2021.herokuapp.com/peeps)! | Ruby, Sinatra, PostgreSQL |
 | [Bank Tech Test](https://github.com/edpackard/bank-tech-test-ruby)    | A command line app, demonstrating my TDD/OOP practice                                   | Ruby                      |
-| [Note-orious](https://github.com/gjstirling/Notebook-Single-Page-App) | A note-taking app built as a group project, with a bespoke testing framework.           | JavaScript                |
+| [Note-orious](https://github.com/edpackard/Note-orious-Single-Page-App) | A note-taking app built as a group project, with a bespoke testing framework.           | JavaScript                |
 
 For other projects, please [browse my github repos.](https://github.com/edpackard?tab=repositories)
 
