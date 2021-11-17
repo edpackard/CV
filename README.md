@@ -33,7 +33,7 @@ For other projects, please [browse my github repos.](https://github.com/edpackar
 #### Pair Programming
 
 - I am a strong team player, and my best coding experiences have been collaborative, especially through pair programming.
-- Pair programming provides me with opportunities to demonstrate and develop my excellent communication skills. People I have paired with have provided positive feedback (such as describing me as a 'thoughtful navigator'), and have often complimented the clarity of my explanations.
+- People I have paired with have provided positive feedback, such as describing me as a 'thoughtful navigator', and have often complimented the clarity of my explanations.
 
 ## Education
 
@@ -98,8 +98,6 @@ _Graduate Teaching Assistant_
 - I used time management and communication skills, combined with pedagogical study, to deliver seminar teaching, indvidual tutorials, and assessment of student work, alongside my own PhD studies.
 
 ## Hobbies
-
+-- Collecting, modifying, and playing with retro computers and video game consoles: ask me how many Nintendo Game Boys I have accumulated!
 - Guitar: I am not a talented musician, but I have been taking electric guitar lessons for five years and enjoy the challenge of learning new songs and techniques.
-- Swimming: I regularly swim for relaxation and exercise. I have set myself the target of 120 swims in 2021.
-- Cycling: I used to be quite a serious club cyclist, but now enjoy more recreational cycling, especially with my family.
-- Collecting, modifying, and playing with retro computers and video game consoles: ask me how many Nintendo Game Boys I have accumulated!
+- Swimming: I regularly swim for relaxation and exercise. I have set myself the target of 120 swims in 2021 - and my next personal coding project is to build an app to log my swimming.
