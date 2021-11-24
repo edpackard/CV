@@ -54,7 +54,7 @@ Makers is an intensive software development bootcamp focusing on TDD/BDD, OOP, a
 #### London School of Economics and Political Science (2004-2009)
 
 - PhD in International History
-- Thesis title: ['Whitehall, industrial mobilisation and the private manufacture of armaments: British state-industry relations, 1918-1936'](etheses.lse.ac.uk/46/)
+- Thesis title: ['Whitehall, industrial mobilisation and the private manufacture of armaments: British state-industry relations, 1918-1936'](https://etheses.lse.ac.uk/46/)
 - Awarded Junior Research Fellowship from the Scouloudi Foundation
 
 #### University of Cambridge (2003-2004)
